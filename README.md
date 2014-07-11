@@ -1,9 +1,9 @@
 talk-open-hardware-breadboard-to-pcb
 ====================================
 
-What: Open Source Bridge 2014 slides
-When: Thursday, June 26, 2014 from 4:45 to 5:30pm
-Where: B302/303 at the Eliot Center.
+* What: Open Source Bridge 2014 slides
+* When: Thursday, June 26, 2014 from 4:45 to 5:30pm
+* Where: B302/303 at the Eliot Center.
 
 **Excerpt**
 
