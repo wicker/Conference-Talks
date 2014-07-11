@@ -1,9 +1,9 @@
-talk-open-hardware-breadboard-to-pcb
-====================================
+Open Hardware: From Breadboard to PCB
+=====================================
 
-* What: Open Source Bridge 2014 slides
+* What: [Open Source Bridge](http://opensourcebridge.org/) 2014 slides
 * When: Thursday, June 26, 2014 from 4:45 to 5:30pm
-* Where: B302/303 at the Eliot Center.
+* Where: B302/303 at the Eliot Center in Portland, Oregon
 
 **Excerpt**
 
