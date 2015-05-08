@@ -9,7 +9,8 @@ Talks
 I learned to design circuits in Eagle because at the time there were no good, free, open source alternatives but I would argue that's changed. Let's talk about why KiCAD might be the CAD program you're looking for and do a whirlwind tour of the current state of KiCAD tools and community. 
 
 **Making Stuff**
-Keynote talk to Evergreen School District high school freshmen at their robotics tournament event. 
+
+Keynote talk I gave to Evergreen School District high school freshmen at their robotics tournament event. I talked about what I do at Max-Viz and why it's important to have marketable skills, and then I tried to give a broad cross-section of many different kinds of engineering jobs in Oregon and southwest Washington. 
 
 **Open Hardware: From Breadboard to PCB**
 * What: [Open Source Bridge](http://opensourcebridge.org/) 2014 slides
